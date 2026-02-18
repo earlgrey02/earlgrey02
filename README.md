@@ -14,4 +14,5 @@
 ## Stat
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=earlgrey02)](https://solved.ac/earlgrey02)
+
 ![earlgrey02](https://github-readme-stats.vercel.app/api?username=earlgrey02&hide=stars,contribs&show_icons=true&theme=github_dark)
