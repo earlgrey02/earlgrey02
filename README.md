@@ -5,7 +5,7 @@
 ## Contribution
 
 - **Spring Framework**
-  - [Add coroutine variant of ``WebExceptionHandler](https://github.com/spring-projects/spring-framework/pull/32931)
+  - [Add coroutine variant of `WebExceptionHandler`](https://github.com/spring-projects/spring-framework/pull/32931)
 - **Spring Security**
   - [Add `SecurityContextRepository` to Kotlin Reactive DSL](https://github.com/spring-projects/spring-security/pull/15013)
   - [Add `HttpStatusAccessDeniedHandler`](https://github.com/spring-projects/spring-security/pull/16502)
